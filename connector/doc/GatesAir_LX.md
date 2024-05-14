@@ -10,8 +10,8 @@ The GatesAir LX connector can be used to monitor and control the **GatesAir** **
 
 | Range                | Key Features     | Based on     | System Impact     |
 |----------------------|------------------|--------------|-------------------|
-| 1.0.0.x [SLC Main]   | Initial version  | -            | -                 |
-| 1.0.1.x              | MIB tree updated | 1.0.0.1      | -                 |
+| 1.0.0.x              | Initial version  | -            | -                 |
+| 1.0.1.x [SLC Main]   | MIB tree updated | 1.0.0.1      | -                 |
 
 ### Product Info
 
