@@ -12,10 +12,11 @@ A **serial** connection is used in order to successfully retrieve and configure 
 
 ### Version Info
 
-| Range              | Key Features      | Based on | System Impact  |
-|--------------------|-------------------|----------|----------------|
-| 1.0.0.x [Obsolete] | Initial version.  | -        | -              |
-| 2.0.0.x [SLC Main] | Full refactoring. | -        | Full refactor. |
+| Range              | Key Features      | Based on |                                    System Impact                                                   |
+|--------------------|-------------------|----------|----------------------------------------------------------------------------------------------------|
+| 1.0.0.x [Obsolete] | Initial version.  | -        | -                                                                                                  |
+| 2.0.0.0            | Full refactoring. | -        | Full refactor.                                                                                     |
+| 2.0.1.x [SLC Main] | Full refactoring. | 2.0.0.2  | Be aware that standalone parameters are moved to table. Alarm and trend templates can be impacted. |
 
 ### Product Info
 
@@ -23,6 +24,8 @@ A **serial** connection is used in order to successfully retrieve and configure 
 |---------|--------------------|
 | 1.0.0.x | -                  |
 | 2.0.0.x | -                  |
+| 2.0.1.x | -                  |
+
 
 ### System Info
 
@@ -30,6 +33,8 @@ A **serial** connection is used in order to successfully retrieve and configure 
 |---------|-----------------|---------------------|-------------------|---------------------|
 | 1.0.0.x | No              | Yes                 | -                 | -                   |
 | 2.0.0.x | No              | Yes                 | -                 | -                   |
+| 2.0.1.x | No              | Yes                 | -                 | -                   |
+
 
 ## Configuration
 
